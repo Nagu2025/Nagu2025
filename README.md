@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Nagu2025
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning ton chain
-- 💞️ I’m looking to collaborate on solidity ethereum block development and ton block development
+- 💞️ I’m looking to collaborate on solidity ethereum block development
 - 📫 drop a mail @ nagu200021@gmail.com
 - 😄 Pronouns: ...Nagu
 - ⚡ Fun fact: ..everything never be alright....?
