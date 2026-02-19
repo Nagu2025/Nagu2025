@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nagu2025
+- 👋 Hi, I’m @Nagu
 - 💞️ I’m looking to collaborate on solidity ethereum block development
 - 📫 drop a mail @ nagu200021@gmail.com
 - 😄 Pronouns: ...Nagu
